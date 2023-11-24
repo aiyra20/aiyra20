@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 🖤
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0084b5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Vitória;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+❤️;안녕하세요+❤️;こんにちは +❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0084b5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Vitória;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+❤️;안녕하세요+❤️;こんにちは+❤️;)](https://git.io/typing-svg)
  <div>
    <a href="https://github.com/aiyra20">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aiyra20&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
