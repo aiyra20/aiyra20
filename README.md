@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0084b5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Vitória;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+💜;안녕하세요+💜;こんにちは+💜;)](https://git.io/typing-svg)
 
 ### ✨Olá, Eu sou a Aiyra.
-Sou uma estudante de Engenharia de Software, estou aqui para crescer e melhorar minhas habilidades e conhecimentos na área.
+Sou uma estudante de Engenharia de Software, uma desenvolvedora frontend em formação, apaixonada por tecnologia... Estou aqui para crescer e melhorar minhas habilidades e conhecimentos na área. 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
  <div>
