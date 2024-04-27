@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 💜
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0084b5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Vitória;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+💜;안녕하세요+💜;こんにちは+💜;)](https://git.io/typing-svg)
 
-### ✨Olá, Eu sou a Aiyra.
+## ✨Olá, Eu sou a Aiyra.
 Sou uma estudante de Engenharia de Software, uma desenvolvedora frontend em formação, apaixonada por tecnologia... Estou aqui para crescer e melhorar minhas habilidades e conhecimentos na área. 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
@@ -29,7 +29,7 @@ Sou uma estudante de Engenharia de Software, uma desenvolvedora frontend em form
  
 <br>
 
-###  <img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px">  Para mais conteúdos sobre programação, me segue na rede social abaixo!
+##  <img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px">  Para mais conteúdos sobre programação, me segue na rede social abaixo!
  
 <div>
   <a href="https://instagram.com/aiyra.1_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
