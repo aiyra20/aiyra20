@@ -33,7 +33,7 @@ Sou estudante de Engenharia de Software, e uma desenvolvedora Frontend em forma�
  
 <br>
 
-##  <img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px">  Para mais conteúdos sobre programação, me segue na rede social abaixo!
+##  <img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px">  Para mais conteúdos sobre programação, me segue na rede social abaixo! <img src="https://github.com/emersonpessoa01/dio-lab-open-source/blob/main/image/gifs/animated-flame-01.gif" width="30px" height="30px">
  
 <div>
   <a href="https://instagram.com/aiyra.1_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
